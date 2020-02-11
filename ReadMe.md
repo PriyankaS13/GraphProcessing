@@ -25,7 +25,7 @@ from there on  any degree of relationship can be obtained in o(n).
 
 ##Usage
 ```bash
-make input_file=./src/soundcloud.txt degree=2 app-submit
+make input_file=./src/input_data.txt degree=2 app-submit
 ```
 
 The above compiles, runs unit tests and creates a package jar for spark submit.
